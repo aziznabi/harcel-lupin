@@ -1,0 +1,5 @@
+discord
+openai
+azure-ai-ml
+os
+json
